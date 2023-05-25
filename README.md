@@ -1,4 +1,4 @@
-Documents for Gary Token ($GARY)<br>
+Documents for Gary Token ($GARY)<br><br>
 https://gary.cash
 
 https://www.twitter.com/iamgarygecko
