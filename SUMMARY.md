@@ -1,3 +1,16 @@
 # Table of contents
 
-* [README](README.md)
+* [Welcome](README.md)
+* [Introduction](introduction.md)
+* [About Gary](about-gary.md)
+* [Tokenomics](tokenomics.md)
+* [Token Metrics](token-metrics.md)
+* [Roadmap](roadmap.md)
+* [Presale](presale.md)
+* [Audit](audit.md)
+* [KYC](kyc.md)
+* [GarySwap](garyswap.md)
+* [Geckoverse](geckoverse.md)
+* [Music](music.md)
+* [Shop](shop.md)
+* [Socials](socials.md)

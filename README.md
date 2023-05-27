@@ -1,16 +1,3 @@
-Documents for Gary Token ($GARY)<br><br>
-https://gary.cash
+# Welcome
 
-https://www.twitter.com/iamgarygecko
-
-https://www.instagram.com/iamgarygecko
-
-https://www.youtube.com/garygecko
-
-https://www.soundcloud.com/garygecko
-
-https://www.tiktok.com/@garygecko
-
-https://t.me/garygecko
-
-I'm you and you are Gary! I am the Gecko leading the Geckolution and just an all round cool guy!!!
+<figure><img src=".gitbook/assets/homepage.png" alt=""><figcaption></figcaption></figure>
