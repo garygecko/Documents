@@ -30,4 +30,4 @@ Liquidity Locked: 1 year 100%
 
 _\*Liquidity locked for 12 months_&#x20;
 
-_\*Ownership is to be renounced June 22nd 2023_
+_\*Ownership is renounced:_ [_https://bscscan.com/tx/0xc25d762966918e3b4495d3c7dc610dbea65e1c401ce53d026d7a02839c96969d_](https://bscscan.com/tx/0xc25d762966918e3b4495d3c7dc610dbea65e1c401ce53d026d7a02839c96969d)&#x20;
