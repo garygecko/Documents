@@ -10,9 +10,7 @@ Network: BSC&#x20;
 
 Fixed Supply : 8,888,888,888&#x20;
 
-Presale: 58.7%&#x20;
-
-Liquidity: 33.3%&#x20;
+Liquidity: 92%&#x20;
 
 CEX Listing and Ecosystem: 8%&#x20;
 
