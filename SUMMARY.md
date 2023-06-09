@@ -6,7 +6,7 @@
 * [Tokenomics](tokenomics.md)
 * [Token Metrics](token-metrics.md)
 * [Roadmap](roadmap.md)
-* [Presale](presale.md)
+* [Fair Launch](fair-launch.md)
 * [Audit](audit.md)
 * [KYC](kyc.md)
 * [GarySwap](garyswap.md)
